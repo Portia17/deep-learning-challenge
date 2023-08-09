@@ -1,6 +1,6 @@
 # deep-learning-challenge
-Module 21 Challenge for Data Analysis Bootcamp
-All models are in Models folder, code for all four models is in code folder.
+Module 21 Challenge for Data Analysis Bootcamp <br/>
+All models are in Models folder, code for all four models is in code folder
 
 ## Overview of the Analysis
 The purpose of this analysis was to use a neural network to classify the success of applicants to a nonprofit foundation that allocates money to different charities.  We used a dataset with information such as the type of organization, what they were using the money for, and the asking amount to train the neural network.  There were 34,299 records which was cleaned and split allowing for 75% to be used for training and 25% to be used for testing.
